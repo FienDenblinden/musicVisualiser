@@ -1,0 +1,21 @@
+{
+  "name": "nexrender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "video.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nexrender/action-copy": "^1.24.2",
+    "@nexrender/action-encode": "^1.28.2",
+    "@nexrender/action-upload": "^1.24.2",
+    "@nexrender/core": "^1.32.3",
+    "@nexrender/provider-ftp": "^1.26.1",
+    "@nexrender/provider-gs": "^1.32.1",
+    "@nexrender/provider-s3": "^1.32.2"
+  }
+
+}
